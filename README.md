@@ -92,6 +92,8 @@ counter holds 0 till it is reloaded back with a new packet payload length.
 ___________________________________________________________________________________________________________________________________
 ROUTER FSM:
 
+![fsm](https://github.com/user-attachments/assets/32422b64-4118-497b-9fcc-4232ea5e0cc9)
+
 
 STATE-DECODE_ADDRESS
  This is the initial reset state.
